@@ -1,0 +1,1 @@
+Currently only an implementation of Tateisi et al's Japanese Readability Score.
